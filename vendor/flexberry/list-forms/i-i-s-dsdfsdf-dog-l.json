@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dsdfsdf-dog-e",
+  "editForm": "i-i-s-dsdfsdf-dog-e",
+  "external": false,
+  "caption": "Dog",
+  "name": "IISdsdfsdfDogL",
+  "className": "DogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dsdfsdf-dog",
+      "modelProjection": "DogL"
+    }
+  ]
+}
